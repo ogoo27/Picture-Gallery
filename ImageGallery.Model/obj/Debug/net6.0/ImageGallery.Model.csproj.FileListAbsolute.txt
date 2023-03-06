@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.deps.json
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.pdb
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.AssemblyInfo.cs
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\refint\ImageGallery.Model.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.pdb
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Model\obj\Debug\net6.0\ref\ImageGallery.Model.dll
