@@ -45,3 +45,5 @@ C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.Client\bin\Debug\net6.0\IdentityModel.AspNetCore.dll

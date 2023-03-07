@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EK/GEnK+lxE2RaTP6b3yD242xs/gxM3eOralROce8QQKtG6dOo2LRmL5ii2Lj+SJymaDxLAMIX/CbPNyq+kozg==",
+  "dgSpecHash": "9YukJztnCbhaijDHH6RKlEzYHpS7GpgYUCfdIazm4g+wXg2kbid4fM03LbFXvKlN1Kxj+Tu/sF/ReXGt/iRx4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.Client\\ImageGallery.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\identitymodel.aspnetcore\\4.2.0\\identitymodel.aspnetcore.4.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.6\\microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",

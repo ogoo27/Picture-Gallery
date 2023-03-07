@@ -188,20 +188,26 @@ namespace ImageGallery.Client.Controllers
 
         public async Task LogIdentityInformation()
         {
-            //get the saved identity
+            //get the saved identity  token
             var identityToken = await HttpContext
                 .GetTokenAsync(OpenIdConnectParameterNames.IdToken);
+
+            //get the saved access token
+            var accessToken = await HttpContext
+                .GetTokenAsync(OpenIdConnectParameterNames.AccessToken);    
 
             var userClaimStringBuilder = new StringBuilder();
             foreach(var claim in User.Claims)
             {
                 userClaimStringBuilder.AppendLine(
-                    $"Claim type: {claim.Type} -  laim value: {claim.Value}");
+                    $"Claim type: {claim.Type} -  Claim value: {claim.Value}");
             }
 
             //log tokens and claims
             _logger.LogInformation($"Identity token & user claims:" +
                 $"\n{identityToken} \n{userClaimStringBuilder}");
+            _logger.LogInformation($"Access token: " +
+                $"\n{accessToken}");
         }
     }
 }

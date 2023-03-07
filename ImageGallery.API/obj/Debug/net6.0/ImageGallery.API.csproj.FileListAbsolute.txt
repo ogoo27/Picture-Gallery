@@ -57,3 +57,10 @@ C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\obj\Debug\net6.0\
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\obj\Debug\net6.0\ImageGallery.API.pdb
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\obj\Debug\net6.0\ImageGallery.API.genruntimeconfig.cache
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\obj\Debug\net6.0\ref\ImageGallery.API.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
