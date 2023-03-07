@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageGallery.Model", "Image
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miracle.IDP", "..\..\..\Miracle.IDP\Miracle.IDP.csproj", "{B35CE582-658A-4246-BAA6-4F557FC21994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.Authorization", "ImageGallery.Authorization\ImageGallery.Authorization.csproj", "{4822F66A-7FC1-4341-BCF0-339D4449094C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B35CE582-658A-4246-BAA6-4F557FC21994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35CE582-658A-4246-BAA6-4F557FC21994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35CE582-658A-4246-BAA6-4F557FC21994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4822F66A-7FC1-4341-BCF0-339D4449094C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4822F66A-7FC1-4341-BCF0-339D4449094C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4822F66A-7FC1-4341-BCF0-339D4449094C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4822F66A-7FC1-4341-BCF0-339D4449094C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

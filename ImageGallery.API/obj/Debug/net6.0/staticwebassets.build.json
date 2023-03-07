@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RzR0XfreeY4Uxc2vybeAiyaATLey/BKMYqYNYV0D3wA=",
+  "Hash": "G2tIPwyi/is0j+DcwdhVjMawpfe5xQwiXJa0yrNmf+U=",
   "Source": "ImageGallery.API",
   "BasePath": "_content/ImageGallery.API",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\94878996-e040-44ef-a668-0bf17d966062.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.API\\wwwroot\\Images\\a492d4b8-ecf1-4011-8c29-85d353f31ad6.jpg",
+      "SourceId": "ImageGallery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.API\\wwwroot\\",
+      "BasePath": "_content/ImageGallery.API",
+      "RelativePath": "Images/a492d4b8-ecf1-4011-8c29-85d353f31ad6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\a492d4b8-ecf1-4011-8c29-85d353f31ad6.jpg"
     },
     {
       "Identity": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.API\\wwwroot\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg",

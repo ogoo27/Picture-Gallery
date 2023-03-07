@@ -9,6 +9,7 @@
       "ImageGallery.Client/1.0.0": {
         "dependencies": {
           "IdentityModel.AspNetCore": "4.2.0",
+          "ImageGallery.Authorization": "1.0.0",
           "ImageGallery.Model": "1.0.0",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "6.0.6",
           "Microsoft.EntityFrameworkCore.Design": "6.0.6"
@@ -52,6 +53,27 @@
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
             "assemblyVersion": "6.0.6.0",
+            "fileVersion": "6.0.622.26805"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/6.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "6.0.6",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authorization.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.622.26805"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Metadata/6.0.6": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
+            "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.622.26805"
           }
         }
@@ -116,7 +138,7 @@
         "dependencies": {
           "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
           "Microsoft.Extensions.Options": "6.0.0",
           "Microsoft.Extensions.Primitives": "6.0.0"
         },
@@ -143,12 +165,19 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
           "Microsoft.Extensions.Options": "6.0.0",
           "System.Diagnostics.DiagnosticSource": "6.0.0"
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.322.12309"
+          }
+        }
+      },
       "Microsoft.Extensions.Options/6.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
@@ -240,6 +269,14 @@
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "System.Security.Cryptography.Cng/4.5.0": {},
+      "ImageGallery.Authorization/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.6"
+        },
+        "runtime": {
+          "ImageGallery.Authorization.dll": {}
+        }
+      },
       "ImageGallery.Model/1.0.0": {
         "runtime": {
           "ImageGallery.Model.dll": {}
@@ -280,6 +317,20 @@
       "sha512": "sha512-UHc+XGB5hsT0ASKXch5snmFSwC5yER59Yfd/K6TeppOQ0m5t4hbSwzuU/SSl3UDYRISjd3R1VDnodzLMLsL6dw==",
       "path": "microsoft.aspnetcore.authentication.openidconnect/6.0.6",
       "hashPath": "microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authorization/6.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DCNGiX7YDM53RjMhVuEOX3IcoRg0SEVDVFdWTMCcXfehxZfTaVqvlNIzCXM/Jx1pUpguNJn7ryUlcgTJtUqZjQ==",
+      "path": "microsoft.aspnetcore.authorization/6.0.6",
+      "hashPath": "microsoft.aspnetcore.authorization.6.0.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/6.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OEj19liYLOyaEgPIgBtaCMPk8AhjxqJZ8aWiZ3g3NZoe8YG5OtL+z4AVVLSqRCDoyVxKQaleyX+SoFHvqvemNA==",
+      "path": "microsoft.aspnetcore.metadata/6.0.6",
+      "hashPath": "microsoft.aspnetcore.metadata.6.0.6.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -365,12 +416,12 @@
       "path": "microsoft.extensions.logging/6.0.0",
       "hashPath": "microsoft.extensions.logging.6.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
-      "path": "microsoft.extensions.logging.abstractions/6.0.0",
-      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+      "sha512": "sha512-dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Options/6.0.0": {
       "type": "package",
@@ -455,6 +506,11 @@
       "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "ImageGallery.Authorization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ImageGallery.Model/1.0.0": {
       "type": "project",

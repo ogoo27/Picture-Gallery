@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9YukJztnCbhaijDHH6RKlEzYHpS7GpgYUCfdIazm4g+wXg2kbid4fM03LbFXvKlN1Kxj+Tu/sF/ReXGt/iRx4w==",
+  "dgSpecHash": "ATa47CDUB/dbzk+ARO+LGTNbZcLo4ZT6y8Q0spla74F5zYWAqA7UUMCtC4ieyXIOOyY3bPejwhe0oqTpSis7cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.Client\\ImageGallery.Client.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\hp\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\identitymodel.aspnetcore\\4.2.0\\identitymodel.aspnetcore.4.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.6\\microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.6\\microsoft.aspnetcore.authorization.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.6\\microsoft.aspnetcore.metadata.6.0.6.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
@@ -20,7 +22,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",

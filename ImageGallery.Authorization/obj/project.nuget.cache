@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7rr0aMDOurMD8Af1G80LAEVajs/uFjbg3IhLlggdKg+8U2X17T1M2av9qn4O44rvysZqk7/95vglNWJvdZrEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\OAuth2\\02\\demos\\start-end\\ImageGallery.Authorization\\ImageGallery.Authorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.6\\microsoft.aspnetcore.authorization.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.6\\microsoft.aspnetcore.metadata.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
