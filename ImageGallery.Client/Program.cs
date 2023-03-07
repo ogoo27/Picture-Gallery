@@ -32,12 +32,13 @@ builder.Services.AddAuthentication(options =>
     //options.Scope.Add ("openid");
     //options.Scope.Add("profile");
     //options.CallbackPath = new PathString("signin-oidc");
+    //SignedOutCallbackPath = new PathString("signin-oidc");
+    //Must match with the post logout redirect URI at IDP client config if
+    //you want to automatically return to the application after logging out
+    //of IdentityServer.
+    //To change, set SignedOutCallbackPath
+    //eg: SignedOutCallbackPath = "pathaftersignout"
     options.SaveTokens = true;
-
-
-
-
-
 });
 
 var app = builder.Build();
