@@ -9,6 +9,7 @@
       "ImageGallery.API/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "IdentityModel.AspNetCore.OAuth2Introspection": "6.1.0",
           "ImageGallery.Authorization": "1.0.0",
           "ImageGallery.Model": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.6",
@@ -47,6 +48,25 @@
           "lib/netstandard2.0/Humanizer.dll": {
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
+      "IdentityModel/5.2.0": {
+        "runtime": {
+          "lib/net5.0/IdentityModel.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "IdentityModel.AspNetCore.OAuth2Introspection/6.1.0": {
+        "dependencies": {
+          "IdentityModel": "5.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/IdentityModel.AspNetCore.OAuth2Introspection.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.1.0.0"
           }
         }
       },
@@ -491,6 +511,20 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "IdentityModel/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nuhkbaDH9l5QzNJp2MtP3qio57MPtiRneUN8Ocr7od0JvSYaIe3gBj/vxllr11S/Qvu1AG4GZXoyv5469ewYDA==",
+      "path": "identitymodel/5.2.0",
+      "hashPath": "identitymodel.5.2.0.nupkg.sha512"
+    },
+    "IdentityModel.AspNetCore.OAuth2Introspection/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dDZmgLba3VTpSKaedZnazB7bweP9XrHIgLdIvn8i3R2ibS8vNe4rPWhI9vudF/zLTxPBxSA3V8AcMACyJ2Y3NQ==",
+      "path": "identitymodel.aspnetcore.oauth2introspection/6.1.0",
+      "hashPath": "identitymodel.aspnetcore.oauth2introspection.6.1.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.6": {
       "type": "package",

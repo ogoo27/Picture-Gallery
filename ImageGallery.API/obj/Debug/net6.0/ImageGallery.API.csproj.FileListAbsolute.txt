@@ -69,3 +69,5 @@ C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\ImageGallery.Authorization.dll
 C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\ImageGallery.Authorization.pdb
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\hp\Desktop\OAuth2\02\demos\start-end\ImageGallery.API\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
